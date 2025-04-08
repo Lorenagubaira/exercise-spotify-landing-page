@@ -1,5 +1,8 @@
 {
-	"title" : "Spotify Landing Page",
+	"title" : {
+		"us": "Spotify Landing Page",
+		"es": "Página de inicio de Spotify"
+	},
 	"slug" : "spotify-landing-page",
 	"status": "published",
 	"duration" : 6,
@@ -8,7 +11,10 @@
 	"technologies": ["html", "css", "javascript"],
 	"difficulty": "intermediate",
 	"preview": "https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/preview.png?raw=true",
-	"description" : "Replicate a professional real-life landing page using bootstrap",
+	"description" : {
+		"us":"Build a professional landing page using HTML, CSS, and Bootstrap by replicating Spotify’s homepage. This project helps you practice real-world skills in layout design and responsive development, essential for junior developers working on marketing and promotional websites.",
+		"es":"Crea una landing page profesional usando HTML, CSS y Bootstrap replicando la página de inicio de Spotify. Este proyecto te ayuda a practicar habilidades reales de diseño de layout y desarrollo responsivo, esenciales para desarrolladores junior en sitios web de marketing y promoción."
+    },
 	"talents": [
 		{ "badge": "identator", "points": 10 },
 		{ "badge": "tag-master", "points": 10 },
@@ -18,5 +24,8 @@
 		{ "badge": "abc", "points": 10 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+"telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=190"
+	  }
 }
