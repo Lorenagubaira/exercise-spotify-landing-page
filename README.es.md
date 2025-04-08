@@ -4,7 +4,7 @@
 
 Como desarrollador junior tendrás que hacer muchas páginas de inicio HTML/CSS para marketing.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱  Cómo iniciar este proyecto
 
@@ -20,7 +20,7 @@ $ git clone https://github.com/breatheco-de/exercise-spotify-landing-page.git
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instrucciones
 Haz [exactamente esta página de inicio](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/preview.png?raw=true) using bootstrap framework, please use the assets found on [the following link](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/assets.zip?raw=true).
